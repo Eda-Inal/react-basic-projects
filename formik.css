@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+   color: rgb(6, 24, 32);
+.red{
+  color: rgb(221, 30, 173);
+}
+ 
+
+}
+body{
+  height: 100%;
+}
+label{
+  display: block;
+ 
+}
+body{
+  background-color: rgb(44, 204, 174);}
